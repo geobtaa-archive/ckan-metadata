@@ -1,7 +1,7 @@
-portalName,URL,Provenance,Spatial Coverage
-01c-01,https://data.bloomington.in.gov,Indiana,"Bloomington, Indiana|Indiana"
-02a-03,https://data.illinois.gov/,Illinois,Illinois
-05a-01,https://gisdata.mn.gov/,Minnesota,Minnesota
-08c-01,https://www.opendataphilly.org,Penn State,"Philidelphia, Pennsylvania|Pennsylvania"
-08f-01,http://www.wprdc.org/,Penn State,Pennsylvania
-12f-01,https://datahub.cmap.illinois.gov/,Chicago,"Chicago, Illinois|Illinois"
+portalName,URL,Provenance,Publisher,Spatial Coverage
+05a-01,https://gisdata.mn.gov/,University of Minnesota,State of Minnesota,Minnesota
+08c-01,https://www.opendataphilly.org/,Pennsylvania State University,"City of Philadelphia, Pennsylvania","Philadelphia, Pennsylvania|Pennsylvania"
+08f-01,http://data.wprdc.org/,Pennsylvania State University,Western Pennsylvania Regional Data Center,Pennsylvania
+12f-01,https://datahub.cmap.illinois.gov/,University of Chicago,Chicago Metropolitan Agency for Planning,"Chicago, Illinois|Illinois"
+01c-01,https://data.bloomington.in.gov/,Indiana University,"City of Bloomington, Indiana","Bloomington, Indiana|Indiana"
+02a-03,https://data.illinois.gov/,University of Illinois Urbana-Champaign,State of Illinois,Illinois
