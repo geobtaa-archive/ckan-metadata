@@ -403,7 +403,6 @@ loc-index-q024k-tile-scheme
 loc-index-q100k-tile-scheme
 loc-index-q250k-tile-scheme
 loc-index-qq-quad-tile-scheme
-loc-mn-dams-inventory-pub
 loc-pls-api-service
 loc-pop-centers
 loc-sectic24k
@@ -474,6 +473,7 @@ struc-dnr-walk-in-access-trails
 struc-dnr-wld-mgmt-areas-pub
 struc-fish-hatcheries
 struc-fishing-sites-in-minnesota
+struc-mn-dams-inventory-pub
 struc-mndot-facilities
 struc-nonpubschool-2000s
 struc-parks-and-trails-campsites
