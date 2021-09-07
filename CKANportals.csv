@@ -5,3 +5,4 @@ portalName,URL,Provider,Publisher,Spatial Coverage,Bounding box
 12f-01,https://datahub.cmap.illinois.gov/,University of Chicago,Chicago Metropolitan Agency for Planning,"Chicago, Illinois|Illinois","-87.9401,41.6443,-87.5237,42.0231"
 01c-01,https://data.bloomington.in.gov/,Indiana University,"City of Bloomington, Indiana","Bloomington, Indiana|Indiana","-86.5919,39.1214,-86.4714,39.2212"
 02a-03,https://data.illinois.gov/,University of Illinois Urbana-Champaign,State of Illinois,Illinois,"-91.5131,36.9703,-87.0199,42.5085"
+05d-11,http://data.nrri.umn.edu/data/,University of Minnesota,State of Minnesota,Minnesota,"-97.2391,43.4994,-89.4834,49.3844"
